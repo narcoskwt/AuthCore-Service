@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "AuthCore-Service: A production-grade authentication service built with Express.js and TypeScript, providing secure JWT-based authentication with refresh token rotation, rate limiting, account lockout, and comprehensive security features",
   "author": "Jaykumar Kevadiya <kevadiyj@uwindsor.ca>",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "private": false,
   "main": "./dist/index.js",
   "type": "commonjs",
